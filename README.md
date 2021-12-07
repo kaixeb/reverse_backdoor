@@ -20,6 +20,6 @@ Available custom commands:
 ```
 $ download <path_to_file_on_victim>
 $ upload <path_to_file_on_listener>
-$ cd
+$ cd <path_to_directory_on_victim>
 $ quit
 ```
